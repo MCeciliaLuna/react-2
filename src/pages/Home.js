@@ -34,6 +34,7 @@ const Home = () => {
               name={personaje.name}
               species={personaje.species}
               url={personaje.url}
+              id ={personaje.id}
             />
           ))}
         </section>
